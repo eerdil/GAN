@@ -1,0 +1,3 @@
+model_checkpoint_path: "tf_model_gan.ckpt"
+all_model_checkpoint_paths: "../../../tf_model_dcgan2.ckpt"
+all_model_checkpoint_paths: "tf_model_gan.ckpt"
